@@ -1,3 +1,12 @@
+
 h1{
     color: red;
+    font-size: 0.5rem;
+}
+
+.title{
+    font-size: 50px;
+} 
+.page-title{
+    font-size: 20px;
 }
